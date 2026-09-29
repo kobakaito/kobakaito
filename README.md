@@ -31,7 +31,10 @@
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ruby,rails,postgres,mysql,aws,gcp,terraform,docker,ts,react,git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,ruby,rails,ts,react,postgres,mysql" alt="Languages, frameworks and databases" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,grafana,git,github" alt="Infrastructure and tools" />
+  <img src="assets/otel.svg" width="48" height="48" alt="OpenTelemetry" />
 </p>
 
 ### ✈️ Places I've Been
