@@ -17,6 +17,7 @@
 - 🎓 B.S. student (3rd Year) in Computer Science and Engineering, **Waseda University**
 - 🏫 **Executive Member, Engineering** at Nagase (Toshin) — designing, building, operating the educational platform system
 - 🎹 Away from one keyboard, I play the piano
+- ✈️ Traveling around the world
 
 ### 💼 Experience
 
