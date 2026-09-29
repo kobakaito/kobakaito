@@ -47,9 +47,3 @@
   🇦🇪 UAE · 🇹🇷 Türkiye · 🇬🇷 Greece · 🇮🇹 Italy · 🇻🇦 Vatican City · 🇦🇹 Austria · 🇭🇺 Hungary<br />
   🇨🇿 Czechia · 🇵🇱 Poland · 🇩🇪 Germany · 🌺 Hawaii · 🇬🇺 Guam · 🇲🇵 Saipan
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kobakaito&theme=github-compact&hide_border=true" alt="Activity graph" />
-</p>
