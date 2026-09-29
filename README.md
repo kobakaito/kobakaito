@@ -20,6 +20,7 @@
 - 🎓 B.S. student in Computer Science and Engineering, **Waseda University**
 - 🏫 **Executive Member, Engineering** at Nagase (Toshin) — building and operating the internal platform in production
 - 🔧 I like designing backends that stay simple under load: Go, PostgreSQL, AWS
+- 🎹 Away from one keyboard, I play another — piano
 
 ### 💼 Experience
 
@@ -34,7 +35,20 @@
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,postgres,mysql,aws,terraform,docker,ts,react,git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,ruby,rails,postgres,mysql,aws,gcp,terraform,docker,ts,react,git,github" alt="Tech stack" />
+</p>
+
+### ✈️ Places I've Been
+
+<p align="center">
+  <img src="assets/globe.gif" width="400" alt="Rotating globe tracing trips from Tokyo" />
+</p>
+
+<p align="center">
+  <b>20 destinations from Tokyo</b><br />
+  🇰🇷 Korea · 🇹🇼 Taiwan · 🇹🇭 Thailand · 🇲🇾 Malaysia · 🇸🇬 Singapore · 🇱🇰 Sri Lanka · 🇺🇿 Uzbekistan<br />
+  🇦🇪 UAE · 🇹🇷 Türkiye · 🇬🇷 Greece · 🇮🇹 Italy · 🇻🇦 Vatican City · 🇦🇹 Austria · 🇭🇺 Hungary<br />
+  🇨🇿 Czechia · 🇵🇱 Poland · 🇩🇪 Germany · 🌺 Hawaii · 🇬🇺 Guam · 🇲🇵 Saipan
 </p>
 
 ---
