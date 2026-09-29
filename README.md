@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/kaito-kobayashi-85796b2b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://developers.cyberagent.co.jp/blog/archives/64534/">
-    <img src="https://img.shields.io/badge/Tech_Blog-222222?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
-  </a>
 </p>
 
 ---
@@ -27,7 +24,7 @@
 | When | Where | What |
 | --- | --- | --- |
 | 2026.08 – | **Mercari (Merpay)** | Software Engineer Intern — Payment Platform |
-| 2026.06 | **CyberAgent** | CA Tech Job — ABEMA Monetize Platform |
+| 2026.06 | **CyberAgent** | CA Tech Job — ABEMA Monetize Platform ([blog](https://developers.cyberagent.co.jp/blog/archives/64534/)) |
 | 2026.03 | **Sansan** | Software Engineer Intern — Sansan Data Hub |
 | 2025.06 – 2025.10 | **Euxir** | Freelance Backend Engineer (Go / MySQL) |
 | 2025.01 – | **Nagase (Toshin)** | Software Engineer → Project Lead → Executive Member, Engineering |
