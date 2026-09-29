@@ -14,10 +14,9 @@
 
 ### 👋 About
 
-- 🎓 B.S. student in Computer Science and Engineering, **Waseda University**
-- 🏫 **Executive Member, Engineering** at Nagase (Toshin) — building and operating the internal platform in production
-- 🔧 I like designing backends that stay simple under load: Go, PostgreSQL, AWS
-- 🎹 Away from one keyboard, I play another — piano
+- 🎓 B.S. student (3rd Year) in Computer Science and Engineering, **Waseda University**
+- 🏫 **Executive Member, Engineering** at Nagase (Toshin) — designing, building, operating the educational platform system
+- 🎹 Away from one keyboard, I play the piano
 
 ### 💼 Experience
 
@@ -38,7 +37,11 @@
 ### ✈️ Places I've Been
 
 <p align="center">
-  <img src="assets/globe.gif" width="400" alt="Rotating globe tracing trips from Tokyo" />
+  <a href="https://kobakaito.github.io/">
+    <img src="assets/globe.gif" width="400" alt="Rotating globe tracing trips from Tokyo" />
+  </a>
+  <br />
+  <sub>🖱️ <a href="https://kobakaito.github.io/">Open the interactive globe</a> — drag to spin, click a place to fly there</sub>
 </p>
 
 <p align="center">
@@ -46,10 +49,4 @@
   🇰🇷 Korea · 🇹🇼 Taiwan · 🇹🇭 Thailand · 🇲🇾 Malaysia · 🇸🇬 Singapore · 🇱🇰 Sri Lanka · 🇺🇿 Uzbekistan<br />
   🇦🇪 UAE · 🇹🇷 Türkiye · 🇬🇷 Greece · 🇮🇹 Italy · 🇻🇦 Vatican City · 🇦🇹 Austria · 🇭🇺 Hungary<br />
   🇨🇿 Czechia · 🇵🇱 Poland · 🇩🇪 Germany · 🌺 Hawaii · 🇬🇺 Guam · 🇲🇵 Saipan
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kobakaito&theme=github-compact&hide_border=true" alt="Activity graph" />
 </p>
