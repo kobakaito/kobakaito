@@ -1,7 +1,7 @@
 <h1 align="center">Kaito Kobayashi</h1>
 
 <p align="center">
-  Backend / Platform Engineer · CS undergrad at Waseda University
+  Software Engineer · CS undergrad at Waseda University
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 | 2026.08 – | **Mercari (Merpay)** | Software Engineer Intern — Payment Platform |
 | 2026.06 | **CyberAgent** | CA Tech Job — ABEMA Monetize Platform ([blog](https://developers.cyberagent.co.jp/blog/archives/64534/)) |
 | 2026.03 | **Sansan** | Software Engineer Intern — Sansan Data Hub |
-| 2025.06 – 2025.10 | **Euxir** | Freelance Backend Engineer (Go / MySQL) |
+| 2025.06 – 2025.10 | **Euxir** | Freelance Software Engineer (Go / MySQL) |
 | 2025.01 – | **Nagase (Toshin)** | Software Engineer → Project Lead → Executive Member, Engineering |
 
 ### 🛠 Tech Stack
