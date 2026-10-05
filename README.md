@@ -37,10 +37,12 @@
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ruby,rails,ts,react,postgres,mysql" alt="Languages, frameworks and databases" />
+  <img src="https://skillicons.dev/icons?i=go,ruby,rails,ts,react,nextjs,postgres,mysql" alt="Languages, frameworks and databases" />
+  <img src="assets/spanner.svg" width="48" height="48" alt="Spanner" />
   <br />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,grafana,git,github" alt="Infrastructure and tools" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,grafana,git,github" alt="Infrastructure and tools" />
   <img src="assets/otel.svg" width="48" height="48" alt="OpenTelemetry" />
+  <img src="assets/k6.svg" width="48" height="48" alt="k6" />
 </p>
 
 ### ✈️ Places I've Been
