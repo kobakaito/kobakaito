@@ -1,7 +1,5 @@
-<h1 align="center">Kaito Kobayashi</h1>
-
 <p align="center">
-  Software Engineer · CS undergrad at Waseda University
+  <img src="assets/header-dark.svg" width="100%" alt="Kaito Kobayashi — Software Engineer · CS undergrad at Waseda University" />
 </p>
 
 <p align="center">
@@ -21,6 +19,11 @@
 
 ### 💼 Experience
 
+<img src="assets/timeline-dark.svg" width="100%" alt="Experience timeline: Nagase (Toshin) 2025.01–, Euxir 2025.06–2025.10, Sansan 2026.03, CyberAgent 2026.06, Mercari (Merpay) 2026.08–" />
+
+<details>
+<summary>Details</summary>
+
 | When | Where | What |
 | --- | --- | --- |
 | 2026.08 – | **Mercari (Merpay)** | Software Engineer Intern — Payment Platform |
@@ -28,6 +31,8 @@
 | 2026.03 | **Sansan** | Software Engineer Intern — Sansan Data Hub |
 | 2025.06 – 2025.10 | **Euxir** | Freelance Software Engineer (Go / MySQL) |
 | 2025.01 – | **Nagase (Toshin)** | Software Engineer → Project Lead → Executive Member, Engineering |
+
+</details>
 
 ### 🛠 Tech Stack
 
